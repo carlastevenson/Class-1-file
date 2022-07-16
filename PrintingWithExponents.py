@@ -1,3 +1,4 @@
+#Work on printing exponents to look like exponents.
 import random
 clist=[]
 explst=[]
